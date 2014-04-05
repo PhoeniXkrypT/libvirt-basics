@@ -4,7 +4,6 @@ libvirt-basics in python
 Implements basic operation (start,stop,resume) for Xen VM using libvirt API
 
 Start : start.py
------
 
 It takes an xml file as an input to create a domain.The xml file added here is 'xyz.xml' which creates a domain 'Ubuntu001'.
 
